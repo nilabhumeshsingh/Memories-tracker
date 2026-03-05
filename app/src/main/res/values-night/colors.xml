@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1565C0</color>
+    <color name="secondaryColor">#64B5F6</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="secondaryTextColor">#E0E0E0</color>
+    <color name="iconColor">#E0E0E0</color>
+    <color name="backgroundColor">#121212</color>
+    <color name="surfaceColor">#1E1E1E</color>
+    <color name="cardBackgroundColor">#1E1E1E</color>
+
+    <!-- Swipe -->
+    <color name="swipeIconColor">#FFFFFF</color>
+    <color name="swipeDeleteColor">#CF6679</color>
+    <color name="swipeArchiveColor">#81C784</color>
+
+    <!-- Category chip colors -->
+    <color name="chipFoodColor">#FF8A65</color>
+    <color name="chipNatureColor">#81C784</color>
+    <color name="chipPhotoColor">#CE93D8</color>
+    <color name="chipLandmarkColor">#64B5F6</color>
+    <color name="chipNightlifeColor">#F48FB1</color>
+    <color name="chipOtherColor">#90A4AE</color>
+
+    <!-- Tab indicator -->
+    <color name="tabIndicatorColor">#64B5F6</color>
+    <color name="tabSelectedTextColor">#64B5F6</color>
+    <color name="tabUnselectedTextColor">#757575</color>
+</resources>
