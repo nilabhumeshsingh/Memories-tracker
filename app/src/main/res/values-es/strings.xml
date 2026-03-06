@@ -45,25 +45,5 @@
     <string name="snackbar_deleted_all">Todos los lugares eliminados.</string>
 
     <!-- New strings for revamp -->
-    <string name="tab_list">Lista</string>
-    <string name="tab_map">Mapa</string>
-    <string name="save_this_spot">Guardar Este Lugar</string>
-    <string name="place_input_latitude">Latitud</string>
-    <string name="place_input_longitude">Longitud</string>
-    <string name="place_input_category">Categoría</string>
-    <string name="category_none">Ninguna</string>
-    <string name="category_food">Comida</string>
-    <string name="category_nature">Naturaleza</string>
-    <string name="category_photo_spot">Foto Spot</string>
-    <string name="category_landmark">Punto de Referencia</string>
-    <string name="category_nightlife">Vida Nocturna</string>
-    <string name="category_other">Otro</string>
-    <string name="gps_loading">Obteniendo tu ubicación…</string>
-    <string name="open_in_google_maps">Abrir en Google Maps</string>
-    <string name="share_place">Compartir</string>
-    <string name="share_place_text">Mira %1$s en %2$.6f, %3$.6f</string>
-    <string name="delete_place">Eliminar</string>
-    <string name="coordinates_format">%1$.6f, %2$.6f</string>
-    <string name="snackbar_gps_failed">No se pudo obtener la ubicación GPS. Ingrese las coordenadas manualmente.</string>
-    <string name="snackbar_invalid_coordinates">Ingrese coordenadas válidas.</string>
+
 </resources>
