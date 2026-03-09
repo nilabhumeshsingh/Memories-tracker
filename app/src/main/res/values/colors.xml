@@ -14,7 +14,7 @@
     <color name="swipeDeleteColor">#FF3E3E</color>
     <color name="swipeArchiveColor">#6CBD59</color>
 
-    <!-- Category chip colors -->
+    <!-- Category chip color --> 
     <color name="chipFoodColor">#FF7043</color>
     <color name="chipNatureColor">#66BB6A</color>
     <color name="chipPhotoColor">#AB47BC</color>
