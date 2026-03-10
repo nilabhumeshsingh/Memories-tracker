@@ -28,18 +28,7 @@ abstract class PlaceDatabase : RoomDatabase() {
             }
         }
 
-        fun getDatabase(context: Context): PlaceDatabase {
-            return INSTANCE ?: synchronized(this) {
-                val instance = Room.databaseBuilder(
-                    context.applicationContext,
-                    PlaceDatabase::class.java,
-                    "place_database"
-                )
-                    .addMigrations(MIGRATION_1_2)
-                    .build()
-                INSTANCE = instance
-                instance
-            }
+
         }
     }
 }
